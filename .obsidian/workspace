@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "06ec6c91d18f47b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5817b5db42399322",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "duymatro_notes/GIT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f4cb946970fe8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "66794fe56ed12603",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870145e1dd110df2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7123212b828eb846",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c98552776336f9d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69f369b18ceb20ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb1d2a2b7ceeeaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e0a52d0f2a1cf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "duymatro_notes/GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d1449d51968e6a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc8cb451f82a2943",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "duymatro_notes/GIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "duymatro_notes/Untitled.md",
+    "duymatro_notes/00 Знания.md",
+    "duymatro_notes/00 test2.md",
+    "duymatro_notes/GNU.md",
+    "Templates/0 New Note.md",
+    "Templates/вход в трансляцию.md",
+    "Templates/Untitled.md",
+    "duymatro_notes/Test.md",
+    "duymatro_notes/Знания.md",
+    "duymatro_notes/00 Test.md"
+  ]
+}
